@@ -1,1 +1,14 @@
-1)
+1)Number of parameters, TwitterClient method
+2)Use of default values, methods to making use of setters
+3)Yes it does
+
+4)3 of them. backOffMillis is zero. backOffMillis is not zero. 2 times backOffMillis is greater 
+than capMillis
+
+5)
+
+6)28%
+
+7)39%
+
+8)58%
