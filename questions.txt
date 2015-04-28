@@ -5,7 +5,8 @@
 4)3 of them. backOffMillis is zero. backOffMillis is not zero. 2 times backOffMillis is greater 
 than capMillis
 
-5)
+5) afferent is incoming dependencies, efferent is outgoing dependencies
+both tell you how much coupling your project has, which might tell you if you need to reduce it or not
 
 6)28%
 
